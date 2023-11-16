@@ -3,9 +3,9 @@
 - Shodan
 - Certspotter
 - crt.sh
-- facebook
-- google
-- cerstream
+- Facebook
+- Google
+- Cerstream (Calidog)
 
 # Censys
 
