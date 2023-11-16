@@ -1,3 +1,12 @@
+# Certificate Transparency Logs
+- Censys
+- Shodan
+- Certspotter
+- crt.sh
+- facebook
+- google
+- cerstream
+
 # Censys
 
 Look for SSL certificates:
