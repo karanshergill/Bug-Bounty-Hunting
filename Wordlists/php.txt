@@ -1,0 +1,10 @@
+common/config.php.new
+common/config.php.old
+common/config.php.bak
+common/config.php.zip
+common/config.php.tar.gz
+config.php.new
+config.php.old
+config.php.bak
+config.php.zip
+config.php.tar.gz
