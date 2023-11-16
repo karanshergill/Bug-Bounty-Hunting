@@ -1,1 +1,8 @@
 auth.json
+..;/
+/..;/
+/config/config.prod.json
+config.prod.json
+config/config.prod.json
+database.create.json
+Release.zip
