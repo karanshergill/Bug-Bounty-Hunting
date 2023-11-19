@@ -10,3 +10,5 @@ Sources:
 - https://raw.githubusercontent.com/rbsec/dnscan/master/subdomains-10000.txt
 - https://raw.githubusercontent.com/rbsec/dnscan/master/subdomains.txt
 - https://gist.githubusercontent.com/six2dez/a307a04a222fab5a57466c51e1569acf/raw
+---
+- https://app.netlas.io/datastore/
