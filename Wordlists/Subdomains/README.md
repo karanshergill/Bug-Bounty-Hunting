@@ -9,3 +9,4 @@ Sources:
 - https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt
 - https://raw.githubusercontent.com/rbsec/dnscan/master/subdomains-10000.txt
 - https://raw.githubusercontent.com/rbsec/dnscan/master/subdomains.txt
+- https://gist.githubusercontent.com/six2dez/a307a04a222fab5a57466c51e1569acf/raw
