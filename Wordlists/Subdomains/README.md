@@ -11,5 +11,6 @@ Sources:
 - https://raw.githubusercontent.com/rbsec/dnscan/master/subdomains.txt
 - https://gist.githubusercontent.com/six2dez/a307a04a222fab5a57466c51e1569acf/raw
 - https://raw.githubusercontent.com/TheRook/subbrute/master/names.txt
+- https://raw.githubusercontent.com/n0kovo/n0kovo_subdomains/main/n0kovo_subdomains_huge.txt
 ---
 - https://app.netlas.io/datastore/
