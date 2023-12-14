@@ -1,9 +1,10 @@
 What is BGP?
 - https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
+
 What are Autonomous System Numbers?
 - https://www.iana.org/assignments/as-numbers/as-numbers.xhtml
 
-Key Points:
+Things to Know:
 - ASNs are 16 bit numbers between one and 65534 and 32 bit numbers between 131072 and 4294967294.
 
 ### ASN's
