@@ -1,5 +1,6 @@
 What is BGP?
 - https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
+- https://aws.amazon.com/what-is/border-gateway-protocol/
 
 What are Autonomous System Numbers?
 - https://www.iana.org/assignments/as-numbers/as-numbers.xhtml
