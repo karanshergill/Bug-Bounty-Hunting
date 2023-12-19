@@ -14,3 +14,6 @@
 - Google Analytics
 - Re-captcha Identifier Keys
 - Custom Headers
+
+Read more:
+- https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275
