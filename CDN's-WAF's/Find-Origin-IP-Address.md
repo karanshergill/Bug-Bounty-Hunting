@@ -7,6 +7,7 @@
  - Favicon Hashes
  - Shodan, Fofa, Censys, SecurityTrails
 
+## Methods
  - Shodan: `ssl.cert.subject.CN:"domain/subdomain"`
  - Fofa: normal search for target domain/subdomain
  - Censys: normal search for target domain/subdomain
