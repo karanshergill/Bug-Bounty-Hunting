@@ -5,7 +5,12 @@
  - CIDRs
  - SSL Certificates
  - Favicon Hashes
- - Shodan, Censys etc.
+ - Shodan, Fofa, Censys, SecurityTrails
+
+ - Shodan: `ssl.cert.subject.CN:"domain/subdomain"`
+ - Fofa: normal search for target domain/subdomain
+ - Censys: normal search for target domain/subdomain
+ - SecuirtyTrails: normal search for target domain/subdomain
 
 
 ## Active
