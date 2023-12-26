@@ -17,5 +17,8 @@ Look for SSL certificates:
 
 #### Shodan
 ```
-ssl.cert.subject.CN:"root-domain.com"
+ssl.cert.subject.CN:"<root-domain.com>"
+```
+```
+ssl.cert.serial:<certificate_serial-number>
 ```
