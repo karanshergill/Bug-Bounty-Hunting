@@ -12,7 +12,7 @@ Sources:
 #### Censys
 Look for SSL certificates:
 ```
-443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names:<"root-domain.com">
+443.https.tls.certificate.parsed.extensions.subject_alt_name.dns_names:<"domain.com">
 ```
 ```
 parsed.ssl.certificate.serial_number:<certificate_serial-number>
@@ -20,7 +20,10 @@ parsed.ssl.certificate.serial_number:<certificate_serial-number>
 
 #### Shodan
 ```
-ssl.cert.subject.CN:"<root-domain.com>"
+ssl.cert.subject.CN:"<domain.com>"
+```
+```
+ssl.cert.issuer.CN:"<domain.com>"
 ```
 ```
 ssl.cert.serial:<certificate_serial-number>
