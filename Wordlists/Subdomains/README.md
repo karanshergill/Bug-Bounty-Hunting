@@ -13,5 +13,6 @@ Sources:
 - https://raw.githubusercontent.com/TheRook/subbrute/master/names.txt
 - https://raw.githubusercontent.com/n0kovo/n0kovo_subdomains/main/n0kovo_subdomains_huge.txt
 - https://paper.vulsee.com/Dictionary-Of-Pentesting/Subdomain/subnames-880199.txt
+- https://raw.githubusercontent.com/netsecurity-as/subfuz/master/subdomain_megalist.txt
 ---
 - https://app.netlas.io/datastore/
