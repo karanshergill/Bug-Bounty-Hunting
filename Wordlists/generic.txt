@@ -1,3 +1,4 @@
+log.txt
 _vti_inf.html
 auth.json
 ..;/
