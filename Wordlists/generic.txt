@@ -25,4 +25,8 @@ data_auth.json
 data_clear.json
 sample_employees_csv.csv
 web.config
-buildPasswordreset.xml 
+buildPasswordreset.xml
+api/proxy
+swagger-ui 
+demo 
+metrics
